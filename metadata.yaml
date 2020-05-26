@@ -1,0 +1,27 @@
+_repo: Lessons-in-the-Shanghai-Dialect_62130
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pott, F. L. Hawks (Francis Lister Hawks)
+    alias: Pott, Francis Lister Hawks
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '51765'
+    url: http://www.gutenberg.org/2009/agents/51765
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Lister_Hawks_Pott
+description: ''
+gutenberg_issued: '2020-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese language -- Dialects -- China -- Shanghai'
+- !lcsh 'Chinese language -- Grammar'
+- !lcc 'PL'
+- GITenberg
+title: Lessons in the Shanghai Dialect
+url: http://www.gutenberg.org/ebooks/62130
